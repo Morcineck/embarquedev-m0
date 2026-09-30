@@ -2,3 +2,8 @@
 *.iml
 out/
 target/
+
+
+.env
+.env.*
+!.env.example
